@@ -30,7 +30,7 @@ export default function Page() {
               className={styles.input}
             />
 
-            <button type="submit">
+            <button type="submit" className={styles.button}>
               Acessar
             </button>
           </form>
